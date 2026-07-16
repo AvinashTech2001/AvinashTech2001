@@ -1,14 +1,16 @@
 Avinash Singh
 
-Flutter & Laravel Developer with 2+ years of experience in mobile and web application development.
+Software Devloper (Flutter & Laravel Developer) with 2+ years of experience in mobile and web application development.
 
 ## Skills
 
 * Flutter
+*state mangment(GetX,Riverpod)
 * Dart
 * Laravel
-*Python
-*Rest Api( Beginner)
+* Rest Api
+* payment Gatways
+* WebSocket
 * PHP
 * MySQL
 * REST API
