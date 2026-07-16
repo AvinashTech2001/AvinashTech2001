@@ -5,7 +5,7 @@ Software Devloper (Flutter & Laravel Developer) with 2+ years of experience in m
 ## Skills
 
 * Flutter
-*state mangment(GetX,Riverpod)
+* state mangment(GetX,Riverpod)
 * Dart
 * Laravel
 * Rest Api
